@@ -3,16 +3,19 @@
  <div>
    <a href="https://github.com/Wasny-loop">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wasny-loop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasny-loop&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasny-loop&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-   
+## 🛠️ Tecnologias que utilizo
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
  <br>
+ 
+##📫 Onde me encontrar
  
 <div> 
 
