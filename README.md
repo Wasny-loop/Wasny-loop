@@ -1,7 +1,7 @@
 ## Hi my name is João Wasny.
  
  <div>
-   <a href="https://github.com/joaowasny">
+   <a href="https://github.com/Wasny-loop">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaowasny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowasny&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
